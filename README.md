@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey! I'm Sterahi, AKA Elizabeth.
 
-<!--
-**Sterahi/Sterahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](https://linkedin.com/in/sterahi) | [Sterahi.com](https://sterahi.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```TypeScript
+const sterahi = {
+  pronouns: "she/her",
+  language: ["english"],
+  technologies: {
+    overall: ["JavaScript", "TypeScript", "Python"],
+    frontend: ["React", "Next.js"],
+    backend: ["Node.js", "Express", "Serverless", "Django (+ Django Rest Framework)"],
+  },
+}
+```
